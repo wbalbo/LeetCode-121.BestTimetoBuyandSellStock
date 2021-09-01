@@ -23,8 +23,7 @@ Memory Usage: 44.4 MB<br />
 
 ![image](https://user-images.githubusercontent.com/570762/131603596-49dcdbef-f4dc-434b-bb47-165b7d5ebc5f.png)
 
-This problem was harder than I expected, and took more hours than expected to solve. And I think my solution was not good, in this solution I used a while
-but earlier I solved with 2 for loops, but in some tests I was getting "Time Limit Exceeded", so was not performatic at all. But at least I solved, I certainly can improve this code.
+This problem was harder than I expected, and took more hours than expected to solve. And I think my solution was not good, in this solution I used a while loop but earlier I solved with 2 for loops, which I think was better but in some tests I was getting "Time Limit Exceeded", so was not performatic at all. So I switched to while and used a different logic, following a tip in a Youtube video, but in the end my runtime was not so good. But at least I solved, I certainly can improve this code in the future.
 
 This is part of Top Interview Questions curated list, from Leetcode:
 
