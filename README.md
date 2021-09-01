@@ -21,7 +21,7 @@ Runtime: 444 ms<br />
 Memory Usage: 44.4 MB<br />
 </b>
 
-
+![image](https://user-images.githubusercontent.com/570762/131603596-49dcdbef-f4dc-434b-bb47-165b7d5ebc5f.png)
 
 This problem was harder than I expected, and took more hours than expected to solve. And I think my solution was not good, in this solution I used a while
 but earlier I solved with 2 for loops, but in some tests I was getting "Time Limit Exceeded", so was not performatic at all. But at least I solved, I certainly can improve this code.
